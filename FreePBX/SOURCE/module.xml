@@ -1,0 +1,23 @@
+<module>
+        <rawname>spyagents</rawname>
+        <name>Spy Agents</name>
+        <version>0.1</version>
+        <type>tool</type>
+        <publisher>Navaismo</publisher>
+        <license>GPLv2+</license>
+        <description>
+                Provides the interface for create IDs and Get Reports for the Android Mobile Applcation SPY AGENTS
+        </description>
+ 	<changelog>
+                *0.1* First Release (Ultrabeta)
+        </changelog>
+        <info>navaismo@gmail.com</info>
+        <category>Unsupported</category>
+        <menuitems>
+                <spyagents category="Admin">Spy Agents</spyagents>
+        </menuitems>
+</module>
+
+
+
+

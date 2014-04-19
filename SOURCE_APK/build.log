@@ -1,0 +1,81 @@
+Logfile initialized
+[INFO] logfile = C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build.log
+[DEBUG] C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\builder.py install Spy Agents D:\Shaka\Programas\adt-bundle-windows-x86_64-20130911\adt-bundle-windows-x86_64-20130911\sdk C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents com.digitalmerge.spyagents 4
+[INFO] Titanium SDK version: 3.1.3 (09/18/13 12:00 222f4d1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.047000 seconds on emulator to get ready
+[DEBUG] com.digitalmerge.spyagents installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\Resources\ui\common\FirstView.js => C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\bin\assets\Resources\ui\common\FirstView.js
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\bin\assets\Resources\spyagents.png
+[DEBUG] generating theme.xml
+[DEBUG] found splash screen at C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\bin\assets\Resources\default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\gen\com\digitalmerge\spyagents\R.java to javac build list
+[DEBUG] adding C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\gen\com\digitalmerge\spyagents\SpyAgentsActivity.java to javac build list
+[DEBUG] adding C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\gen\com\digitalmerge\spyagents\SpyAgentsAppInfo.java to javac build list
+[DEBUG] adding C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\gen\com\digitalmerge\spyagents\SpyAgentsApplication.java to javac build list
+[DEBUG] Building Java Sources: "C:\\Users\\navai_000\\Documents\\Titanium_Studio_Workspace\\Spy Agents\\build\\android\\gen\\com\\digitalmerge\\spyagents\\R.java" "C:\\Users\\navai_000\\Documents\\Titanium_Studio_Workspace\\Spy Agents\\build\\android\\gen\\com\\digitalmerge\\spyagents\\SpyAgentsActivity.java" "C:\\Users\\navai_000\\Documents\\Titanium_Studio_Workspace\\Spy Agents\\build\\android\\gen\\com\\digitalmerge\\spyagents\\SpyAgentsAppInfo.java" "C:\\Users\\navai_000\\Documents\\Titanium_Studio_Workspace\\Spy Agents\\build\\android\\gen\\com\\digitalmerge\\spyagents\\SpyAgentsApplication.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: C:\Users\navai_000\Documents\Titanium_Studio_Workspace\Spy Agents\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/ui/common/FirstView.js
+[DEBUG] from resource zip => assets/Resources/ui/common/Settings.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/android/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/ui/tablet/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/logo.png
+[DEBUG] from resource zip => assets/Resources/spyagents.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from resource zip => res/drawable/btn_more_64.png
+[DEBUG] from resource zip => res/drawable/disclosure_64.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\Users\navai_000\AppData\Roaming\Titanium\mobilesdk\win32\3.1.3.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.047000 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
